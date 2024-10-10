@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Deparment_Choice_by_react/static/css/main.9c980d2e.css",
+    "main.js": "/Deparment_Choice_by_react/static/js/main.f4383f0b.js",
+    "static/js/453.8585abbc.chunk.js": "/Deparment_Choice_by_react/static/js/453.8585abbc.chunk.js",
+    "index.html": "/Deparment_Choice_by_react/index.html",
+    "main.9c980d2e.css.map": "/Deparment_Choice_by_react/static/css/main.9c980d2e.css.map",
+    "main.f4383f0b.js.map": "/Deparment_Choice_by_react/static/js/main.f4383f0b.js.map",
+    "453.8585abbc.chunk.js.map": "/Deparment_Choice_by_react/static/js/453.8585abbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c980d2e.css",
+    "static/js/main.f4383f0b.js"
+  ]
+}
